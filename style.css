@@ -1,0 +1,19 @@
+body{
+    background-color: cadetblue;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+div{
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    margin-top: 20px;
+}
+input{
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    background-color: aliceblue;
+    color: cadetblue;
+    border: none;
+}
